@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Motor Matic Murah</string>
+    <string name="motor_name">Nama Motor</string>
+    <string name="detail">Detail</string>
+    <string name="motor_price">Harga Motor</string>
+    <string name="profile_name">Nama</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="email">email</string>
+    <string name="fullscreen">Full screen</string>
+    <string name="spek">Spesifikasi</string>
+    <string name="mesin">Mesin</string>
+    <string name="content_mesin">Tipe Mesin</string>
+    <string name="cc">CC</string>
+    <string name="content_cc">CC</string>
+    <string name="sistem">Sistem</string>
+    <string name="content_sistem">Sistem</string>
+    <string name="daya">Daya</string>
+    <string name="content_daya">Content Daya</string>
+    <string name="torsi">Torsi</string>
+    <string name="content_torsi">Content Torsi</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
+
+
